@@ -57,7 +57,7 @@ img {
 */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
-  color: #c2ad89;
+  color: white;
   margin: 0;
   padding: 0;
   font-weight: 700;
@@ -89,7 +89,7 @@ h6 {
 }
 a {
   text-decoration: none;
-  color: #c2ad89;
+  color: white;
   font-family: 'Lato', sans-serif;
 }
 a:hover {
@@ -97,7 +97,7 @@ a:hover {
   text-decoration: underline;
 }
 p, .container-fluid, .container {
-  color: #c2ad89;
+  color: white;
   font-family: 'Lato', sans-serif;
   font-size: 1rem;
   line-height: 1.5;
@@ -415,7 +415,7 @@ Top
 */
 .top-info {
   text-align: center;
-  color: #c2ad89;
+  color: #D6D6D6;
   font-size: 1rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -423,7 +423,7 @@ Top
 }
 .top-info-bg {
   text-align: center;
-  color: #c2ad89;
+  color: #D6D6D6;
   font-size: 0.875rem;
   text-transform: uppercase;
   padding: 0.7rem 1rem;
@@ -431,7 +431,7 @@ Top
 }
 .top-info-bg-2 {
   text-align: center;
-  color: #c2ad89;
+  color: #D6D6D6;
   font-size: 1rem;
   padding: 0.7rem 1rem;
   background: #060f2d;
@@ -486,7 +486,7 @@ Top
   font-size: 0.75rem;
 }
 .top-box .time .title {
-  color: #c2ad89;
+  color: #D6D6D6;
   font-size: 0.75rem;
   font-weight: 700;
 }
@@ -553,7 +553,7 @@ Navbar
   font-size: 1rem;
   font-family: 'Lato', sans-serif;
   font-weight: 700;
-  border-bottom: 1px solid #c2ad89;
+  border-bottom: 1px solid #D6D6D6;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -625,7 +625,7 @@ Navbar
   position: relative;
   padding: 0;
   margin: 0;
-  border-bottom: 1px solid #c2ad89;
+  border-bottom: 1px solid #D6D6D6;
 }
 .navbar-nav ul li a, .navbar-nav ul li label {
   width: 100%;
@@ -639,7 +639,7 @@ Navbar
   font-family: 'Lato', sans-serif;
   font-size: 0.85rem;
   font-weight: 700;
-  color: #c2ad89;
+  color: #D6D6D6;
   cursor: pointer;
 }
 .navbar-nav ul li a:hover, .navbar-nav ul li label:hover {
@@ -648,7 +648,7 @@ Navbar
 }
 /*only borders */
 .navbar {
-  background: #c2ad89;
+  background: #D6D6D6;
 }
 .navbar-nav ul li {
   border: 1px solid #000;
@@ -658,14 +658,14 @@ Navbar
   border-bottom: 1px solid #000;
 }
 .navbar-nav ul li a, .navbar-nav ul li label {
-  color: #c2ad89;
+  color: #D6D6D6;
 }
 @media (min-width: 768px) {
   .navbar .navbar-trigger, .navbar .navbar-hidden, .navbar input {
     display: none;
   }
   .navbar {
-    background: #c2ad89;
+    background: #D6D6D6;
     width: auto;
     margin-top: 0;
   }
@@ -695,7 +695,7 @@ Navbar
   }
   .navbar-nav ul li a:hover, .navbar-nav ul li label:hover {
     color: white;
-    background: #c2ad89;
+    background: #D6D6D6;
   }
   /* Background full width */
   .navbar.bg .navbar-trigger, .navbar .navbar-hidden, .navbar input {
@@ -736,10 +736,10 @@ Navbar
     padding: 1rem 0;
   }
   .navbar.bg .navbar-nav ul li a, .navbar.bg .navbar-nav ul li label {
-    color: #c2ad89;
+    color: #D6D6D6;
   }
   .navbar.bg .navbar-nav ul li a:hover, .navbar.bg .navbar-nav ul li label:hover {
-    color: #c2ad89;
+    color: #D6D6D6;
     background: #060f2d;
   }
   /* effect line bellow*/
@@ -829,7 +829,7 @@ Banner
   padding: 0;
   margin: 0;
   text-align: center;
-  color: #c2ad89;
+  color: #D6D6D6;
   text-transform: uppercase;
   background-color:red;
 }
@@ -874,7 +874,7 @@ Why us - background
   background: #060f2d;
 }
 .why-us-bg-boxes > .row > div[class^="col-"]:nth-child(odd) .why-us-bg-box * {
-  color: #c2ad89;
+  color: #D6D6D6;
 }
 .why-us-bg-boxes > .row > div[class^="col-"]:nth-child(even) .why-us-bg-box {
   background: #060f2d;
@@ -898,7 +898,7 @@ Why us - background
   align-items: center;
   padding: 1rem 1rem 0;
   text-align: center;
-  color: #c2ad89;
+  color: #D6D6D6;
 }
 .why-us-bg-boxes div[class^="col-"]:last-child .why-us-bg-box {
   padding-bottom: 1rem;
@@ -1074,7 +1074,7 @@ Gallery
 .gallery-artibaj .thumbs-box label {
   cursor: pointer;
   margin: 0 0.5rem 1rem;
-  border: 1px solid #c2ad89;
+  border: 1px solid #D6D6D6;
   overflow: hidden;
   text-align: center;
   position: relative;
@@ -1211,15 +1211,15 @@ Tabs-accordion
   height: 50px;
   margin-bottom: 0.875rem;
   padding-left: 1rem;
-  color: #c2ad89;
+  color: #D6D6D6;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 1rem;
-  border-bottom: 1px solid #c2ad89;
+  border-bottom: 1px solid #D6D6D6;
 }
 .tabs-accordion-box input:checked + label {
   background: #060f2d;
-  color: #c2ad89;
+  color: #D6D6D6;
 }
 .tabs-accordion-box label img {
   margin-right: 1rem;
@@ -1262,15 +1262,15 @@ Tabs-accordion
   display: none;
 }
 .tabs-accordion-box input:checked + label .icon-chevron:after, .tabs-accordion-box input:checked + label .icon-chevron:before {
-  background: #c2ad89;
+  background: #D6D6D6;
 }
 .tabs-accordion-box label:hover {
   background: #060f2d;
-  color: #c2ad89;
+  color: #D6D6D6;
   border-bottom-color: transparent;
 }
 .tabs-accordion-box label:hover .icon-chevron:before, .tabs-accordion-box label:hover .icon-chevron:after {
-  background: #c2ad89;
+  background: #D6D6D6;
 }
 .tabs-accordion-box label:hover .active {
   display: -webkit-inline-box;
@@ -1299,7 +1299,7 @@ Tabs-accordion
   display: none;
   width: 100%;
   padding: 1rem;
-  border: 1px solid #c2ad89;
+  border: 1px solid #D6D6D6;
   margin-bottom: 0.875rem;
   -webkit-transform: translateY(-1px);
   -ms-transform: translateY(-1px);
@@ -1376,7 +1376,7 @@ Info boxes
   border: 3px solid #a88a57;
 }
 .info-box * {
-  color: #c2ad89;
+  color: #D6D6D6;
 
 }
 .info-box .info-img {
@@ -1394,20 +1394,20 @@ Info boxes
   padding: 0.7rem 1rem;
   font-size: 1rem;
   font-weight: 700;
-  color: #c2ad89;
+  color: #D6D6D6;
   text-transform: uppercase;
   margin-top: 0.5rem;
   text-decoration: none;
-  border: 1px solid #c2ad89;
+  border: 1px solid #D6D6D6;
   -webkit-transition: 0.3s ease-out;
   -o-transition: 0.3s ease-out;
   transition: 0.3s ease-out;
 
 }
 .info-box .info-btn:hover {
-  color: #c2ad89;
+  color: #D6D6D6;
   background: #060f2d;
-  border-color: #c2ad89;
+  border-color: #D6D6D6;
 }
 /*
 ====================================
@@ -1474,7 +1474,7 @@ img {
 */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
-  color: #c2ad89;
+  color: #D6D6D6;
   margin: 0;
   padding: 0;
   font-weight: 700;
@@ -1506,7 +1506,7 @@ h6 {
 }
 a {
   text-decoration: none;
-  color: #c2ad89;
+  color: #D6D6D6;
   font-family: 'Lato', sans-serif;
 }
 a:hover {
@@ -1514,7 +1514,7 @@ a:hover {
   text-decoration: underline;
 }
 p, .container-fluid, .container {
-  color: #c2ad89;
+  color: #D6D6D6;
   font-family: 'Lato', sans-serif;
   font-size: 1rem;
   line-height: 1.5;
@@ -1524,7 +1524,7 @@ p {
 }
 .divider-bottom {
   padding-bottom: 1rem;
-  border-bottom: 3px solid #c2ad89;
+  border-bottom: 3px solid #D6D6D6;
   margin-bottom: 2rem;
 }
 .divider-bottom * {
@@ -1832,7 +1832,7 @@ Top
 */
 .top-info {
   text-align: center;
-  color: #c2ad89;
+  color: #D6D6D6;
   font-size: 1rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -1840,7 +1840,7 @@ Top
 }
 .top-info-bg {
   text-align: center;
-  color: #c2ad89;
+  color: #D6D6D6;
   font-size: 0.875rem;
   text-transform: uppercase;
   padding: 0.7rem 1rem;
@@ -1848,7 +1848,7 @@ Top
 }
 .top-info-bg-2 {
   text-align: center;
-  color: #c2ad89;
+  color: #D6D6D6;
   font-size: 1rem;
   padding: 0.7rem 1rem;
   background: #060f2d;
@@ -1903,7 +1903,7 @@ Top
   font-size: 0.75rem;
 }
 .top-box .time .title {
-  color: #c2ad89;
+  color: #D6D6D6;
   font-size: 0.75rem;
   font-weight: 700;
 }
@@ -1966,12 +1966,12 @@ Navbar
   padding-left: 1rem;
   width: 100%;
   background: #060f2d;
-  color: #c2ad89;
+  color: #D6D6D6;
   line-height: 3rem;
   font-size: 1rem;
   font-family: 'Lato', sans-serif;
   font-weight: 700;
-  border-bottom: 1px solid #c2ad89;
+  border-bottom: 1px solid #D6D6D6;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -2043,7 +2043,7 @@ Navbar
   position: relative;
   padding: 0;
   margin: 0;
-  border-bottom: 1px solid #c2ad89;
+  border-bottom: 1px solid #D6D6D6;
 }
 .navbar-nav ul li a, .navbar-nav ul li label {
   width: 100%;
@@ -2057,16 +2057,16 @@ Navbar
   font-family: 'Lato', sans-serif;
   font-size: 0.85rem;
   font-weight: 700;
-  color: #c2ad89;
+  color: #D6D6D6;
   cursor: pointer;
 }
 .navbar-nav ul li a:hover, .navbar-nav ul li label:hover {
-  color: #c2ad89;
+  color: #D6D6D6;
   background: #060f2d;
 }
 /*only borders */
 .navbar {
-  background: #c2ad89;
+  background: #D6D6D6;
 }
 .navbar-nav ul li {
   border: 1px solid #000;
@@ -2113,7 +2113,7 @@ Navbar
   }
   .navbar-nav ul li a:hover, .navbar-nav ul li label:hover {
     color: white;
-    background: #c2ad89;
+    background: #D6D6D6;
   }
   /* Background full width */
   .navbar.bg .navbar-trigger, .navbar .navbar-hidden, .navbar input {
@@ -2156,11 +2156,11 @@ Navbar
     padding: 1rem 0;
   }
   .navbar.bg .navbar-nav ul li a, .navbar.bg .navbar-nav ul li label {
-    color: #c2ad89;
+    color: #D6D6D6;
   }
   .navbar.bg .navbar-nav ul li a:hover, .navbar.bg .navbar-nav ul li label:hover {
     color: white;
-    background: #c2ad89;
+    background: #D6D6D6;
   }
   /* effect line bellow*/
   .navbar-nav ul li:after {
@@ -2248,7 +2248,7 @@ Banner
   padding: 0;
   margin: 0;
   text-align: center;
-  color: #c2ad89;
+  color: #D6D6D6;
   text-transform: uppercase;
 }
 .banner .slogan .title1 {
@@ -2292,7 +2292,7 @@ Why us - background
   background: #060f2d;
 }
 .why-us-bg-boxes > .row > div[class^="col-"]:nth-child(odd) .why-us-bg-box * {
-  color: #c2ad89;
+  color: #D6D6D6;
 }
 .why-us-bg-boxes > .row > div[class^="col-"]:nth-child(even) .why-us-bg-box {
   background: #060f2d;
@@ -2316,7 +2316,7 @@ Why us - background
   align-items: center;
   padding: 1rem 1rem 0;
   text-align: center;
-  color: #c2ad89;
+  color: #E0E0E0;
 }
 .why-us-bg-boxes div[class^="col-"]:last-child .why-us-bg-box {
   padding-bottom: 1rem;
@@ -2622,12 +2622,12 @@ Tabs-accordion
   height: 50px;
   margin-bottom: 0.875rem;
   padding-left: 1rem;
-  background: #c2ad89;
+  background: #D6D6D6;
   color: #060f2d;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 1rem;
-  border-bottom: 1px solid #c2ad89;
+  border-bottom: 1px solid #D6D6D6;
 }
 .tabs-accordion-box input:checked + label {
   background: #060f2d;
@@ -2651,7 +2651,7 @@ Tabs-accordion
   -webkit-transform: translateX(-50%) translateY(-50%);
   -ms-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-  background: #c2ad89;
+  background: #D6D6D6;
 }
 .tabs-accordion-box .icon-chevron:before {
   width: 0.875rem;
@@ -2674,7 +2674,7 @@ Tabs-accordion
   display: none;
 }
 .tabs-accordion-box input:checked + label .icon-chevron:after, .tabs-accordion-box input:checked + label .icon-chevron:before {
-  background: #c2ad89;
+  background: #D6D6D6;
 }
 .tabs-accordion-box label:hover {
   background: #060f2d;
@@ -2682,7 +2682,7 @@ Tabs-accordion
   border-bottom-color: transparent;
 }
 .tabs-accordion-box label:hover .icon-chevron:before, .tabs-accordion-box label:hover .icon-chevron:after {
-  background: #c2ad89;
+  background: #D6D6D6;
 }
 .tabs-accordion-box label:hover .active {
   display: -webkit-inline-box;
@@ -2711,7 +2711,7 @@ Tabs-accordion
   display: none;
   width: 100%;
   padding: 1rem;
-  border: 1px solid #c2ad89;
+  border: 1px solid #D6D6D6;
   margin-bottom: 0.875rem;
   -webkit-transform: translateY(-1px);
   -ms-transform: translateY(-1px);
@@ -2800,7 +2800,7 @@ Info boxes
   z-index: -1;
 }
 .info-box .info-btn {
-  background: #c2ad89;
+  background: #D6D6D6;
   padding: 0.7rem 1rem;
   font-size: 1rem;
   font-weight: 700;
@@ -2808,7 +2808,7 @@ Info boxes
   text-transform: uppercase;
   margin-top: 0.5rem;
   text-decoration: none;
-  border: 1px solid #c2ad89;
+  border: 1px solid #D6D6D6;
   -webkit-transition: 0.3s ease-out;
   -o-transition: 0.3s ease-out;
   transition: 0.3s ease-out;
@@ -2817,7 +2817,7 @@ Info boxes
 .info-box .info-btn:hover {
   color: white;
   background: #060f2d;
-  border-color: #c2ad89;
+  border-color: #D6D6D6;
 }
 /*
 ====================================
@@ -2864,7 +2864,7 @@ Footer
   font-size: 1rem;
   font-weight: 700;
   background: #060f2d;
-  color: #c2ad89;
+  color: #D6D6D6;
   padding: 0.75rem 1rem;
   margin-top: 0.75rem;
   text-transform: uppercase;
@@ -2872,10 +2872,10 @@ Footer
   -webkit-transition: 0.3s ease-out;
   -o-transition: 0.3s ease-out;
   transition: 0.3s ease-out;
-  border: 1px solid #c2ad89;
+  border: 1px solid #D6D6D6;
 }
 .footer-page a:hover {
-  background: #c2ad89;
+  background: #D6D6D6;
   border-color: #660000;
   color: #660000;
 }
